@@ -1,7 +1,7 @@
 {
   "files": {
-    "main.css": "/sonata_code/static/css/main.ab8836ce.css",
-    "main.js": "/sonata_code/static/js/main.d89dd37d.js",
+    "main.css": "/sonata_code/static/css/main.c5660e15.css",
+    "main.js": "/sonata_code/static/js/main.9dd753c3.js",
     "static/js/453.50e36324.chunk.js": "/sonata_code/static/js/453.50e36324.chunk.js",
     "static/media/OpenSans-Italic.svg": "/sonata_code/static/media/OpenSans-Italic.ecf8b42544aea2079a2b.svg",
     "static/media/OpenSans-Medium.svg": "/sonata_code/static/media/OpenSans-Medium.b3283f18b45739bb91fa.svg",
@@ -31,7 +31,6 @@
     "static/media/OpenSans-Regular.ttf": "/sonata_code/static/media/OpenSans-Regular.9655f9b26ae2092b8f69.ttf",
     "static/media/shop-bg-1.png": "/sonata_code/static/media/shop-bg-1.c31b3c3c7eb6cd249874.png",
     "static/media/OpenSans-Italic.woff": "/sonata_code/static/media/OpenSans-Italic.74f11c093eb56888e344.woff",
-    "static/media/restaurants.jpg": "/sonata_code/static/media/restaurants.8c18e968937ad1f54e9b.jpg",
     "static/media/OpenSans-Medium.woff": "/sonata_code/static/media/OpenSans-Medium.06268ccc53e0555d409b.woff",
     "static/media/OpenSans-Regular.woff": "/sonata_code/static/media/OpenSans-Regular.d19611ee2826b63a4784.woff",
     "static/media/OpenSans-SemiBold.woff": "/sonata_code/static/media/OpenSans-SemiBold.fa81d8652bfc4d15f25c.woff",
@@ -39,33 +38,25 @@
     "static/media/OpenSans-ExtraBold.woff": "/sonata_code/static/media/OpenSans-ExtraBold.81aa6d809a186239fcdf.woff",
     "static/media/OpenSans-Bold.woff": "/sonata_code/static/media/OpenSans-Bold.bde040cce94b1c1170b5.woff",
     "static/media/04.png": "/sonata_code/static/media/04.15f182d6dabc6cb61c18.png",
-    "static/media/bath.jpg": "/sonata_code/static/media/bath.88484c23c2bbfc76e5f8.jpg",
     "static/media/OpenSans-Italic.woff2": "/sonata_code/static/media/OpenSans-Italic.92a57cebb60c508e07cd.woff2",
-    "static/media/pools.jpg": "/sonata_code/static/media/pools.9c55f007f2905fe7cfc6.jpg",
     "static/media/OpenSans-Medium.woff2": "/sonata_code/static/media/OpenSans-Medium.349b56c840ded6f3b66a.woff2",
     "static/media/OpenSans-Regular.woff2": "/sonata_code/static/media/OpenSans-Regular.c1fd258938e9e3ad4135.woff2",
     "static/media/OpenSans-SemiBold.woff2": "/sonata_code/static/media/OpenSans-SemiBold.fbb2b33571129ff96359.woff2",
-    "static/media/office.jpg": "/sonata_code/static/media/office.b49c588e3d5c1b49a8ae.jpg",
     "static/media/OpenSans-Light.woff2": "/sonata_code/static/media/OpenSans-Light.59c1a304def76fff0761.woff2",
-    "static/media/shops.jpg": "/sonata_code/static/media/shops.c2c8ba3fe74418a02643.jpg",
-    "static/media/walls.jpg": "/sonata_code/static/media/walls.1b8917c8f866fd7d4dd2.jpg",
     "static/media/OpenSans-ExtraBold.woff2": "/sonata_code/static/media/OpenSans-ExtraBold.f8ef25952e92e6bda2df.woff2",
     "static/media/OpenSans-Bold.woff2": "/sonata_code/static/media/OpenSans-Bold.53331fef4d9b4c95bc3e.woff2",
-    "static/media/facedes.jpg": "/sonata_code/static/media/facedes.73cd05b56cb9a8dcfbfc.jpg",
-    "static/media/kitchen.jpg": "/sonata_code/static/media/kitchen.d2bdfded40a2e64cff6e.jpg",
-    "static/media/furniture.jpg": "/sonata_code/static/media/furniture.c61a07c91a091122f5bf.jpg",
     "static/media/icomoon.svg?6fgtyo": "/sonata_code/static/media/icomoon.d519d96050c4aafacb9c.svg",
     "static/media/logo.svg": "/sonata_code/static/media/logo.d0d4a319cc072d14137745a14868d61c.svg",
     "static/media/icomoon.eot?6fgtyo": "/sonata_code/static/media/icomoon.7c587706ac43578fc845.eot",
     "static/media/icomoon.woff?6fgtyo": "/sonata_code/static/media/icomoon.7b6c21f2b76977461d3c.woff",
     "static/media/icomoon.ttf?6fgtyo": "/sonata_code/static/media/icomoon.0ccbc2dffd526a3ed6ec.ttf",
     "index.html": "/sonata_code/index.html",
-    "main.ab8836ce.css.map": "/sonata_code/static/css/main.ab8836ce.css.map",
-    "main.d89dd37d.js.map": "/sonata_code/static/js/main.d89dd37d.js.map",
+    "main.c5660e15.css.map": "/sonata_code/static/css/main.c5660e15.css.map",
+    "main.9dd753c3.js.map": "/sonata_code/static/js/main.9dd753c3.js.map",
     "453.50e36324.chunk.js.map": "/sonata_code/static/js/453.50e36324.chunk.js.map"
   },
   "entrypoints": [
-    "static/css/main.ab8836ce.css",
-    "static/js/main.d89dd37d.js"
+    "static/css/main.c5660e15.css",
+    "static/js/main.9dd753c3.js"
   ]
 }
